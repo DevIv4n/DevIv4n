@@ -4,7 +4,7 @@
 
 <p>Soy un <b>desarrollador web fullstack</b> apasionado por crear soluciones innovadoras y enfrentar nuevos desafíos. Disfruto aprender nuevas tecnologías, mejorar mis habilidades, y colaborar para ayudar a otros a alcanzar sus objetivos.</p>
 
-  <img src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" width="300">
+ <picture> <img src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" width="300"> </picture>
   
 </div>
 
@@ -43,7 +43,6 @@
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deviv4n&show_icons=true&theme=radical&hide_border=true&border_radius=10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deviv4n&layout=compact&theme=radical&hide_border=true&border_radius=10)
-
 </div>
 
 ---
@@ -52,8 +51,8 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iván-juárez-velázquez-98b3a832bl)
-[![Correo](https://img.shields.io/badge/Email-Dirección-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Skillsprogr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-IvanJuarez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iv%C3%A1n-ju%C3%A1rez-vel%C3%A1zquez-98b3a832b/)
+[![Correo](https://img.shields.io/badge/Email-Skillsprogr@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Skillsprogr@gmail.com)
 
 </div>
 
